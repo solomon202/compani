@@ -1,4 +1,4 @@
-package com.customer;
+package customer;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
